@@ -1,5 +1,5 @@
 # Site settings
-title: Rob Hinds
+title: <strong>Geoffrey Adzua</strong>
 twitter_username: rob_hinds
 name: Rob Hinds
 
@@ -8,32 +8,32 @@ markdown: kramdown
 
 #User specific content
 #Links that will appear in the navbar
-primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
- - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
- - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+#primarylinks:
+# - title: Blog
+#   url: http://automateddeveloper.blogspot.com/
+# - title: GitHub
+#   url: https://github.com/robhinds
+# - title: StackOverflow
+#   url: http://stackoverflow.com/users/258813/rhinds
+# - title: DZone
+#   url: https://dzone.com/users/899489/rhinds.html
+# - title: LinkedIn
+#   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
+ - Python
+ - Data Science
+ - C and C++
+ - SQL
+ - PHP
+ - JavaScript
+ - HTML5 and CSS3
  - Spring MVC/Boot/Social
- - Gradle
+ - Django
  - Java
  - JPA
- - SQL
+ - Reinforcement learning
  - REST
  - Technical Architecture
  - Machine learning
@@ -43,33 +43,33 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Full Stack Developer
+   start: 2013
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
+   employer: BrokerTech Nig. Ltd.
+   description: Developing software for clients including websites, web apps, android apps and windows applications.
+ - title: Site Engineer
+   start: 2009
+   end: 2013
+   employer: Gilgal Nig. Ltd.
+   description: Engineering supervisor working with the architect, subcontractors and the tradesmen and ensuring work goes as planned to necessary specifications.
+ - title: Instrumentation Engineer
    start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   end: 2009
+   employer: Bekool Oil and Gas Services
+   description: Carry out installation and maintenance of service equipment for major oil production companies.
+ - title: Math Teacher
+   start: 2002
+   end: 2005
+   employer: Mount Olive Sec. Sch. 
+   description: Teaching math and in charge of conducting external exams.
 
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   date: 2001
+   subject: Industrial and Production Engineering
+   school: University of Ibadan
 
 #This section is optional (as is the image link below)
 coursera:
