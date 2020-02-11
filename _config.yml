@@ -48,21 +48,21 @@ roles:
    end: Ongoing
    employer: Basement Crowd
    description: Developing software for clients including websites, web apps, android apps and windows applications.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
+ - title: Site Engineer
+   start: 2009
+   end: 2013
+   employer: Gilgal Nig. Ltd.
+   description: Engineering supervisor working with the architect, subcontractors and the tradesmen and ensuring work goes as planned to necessary specifications.
+ - title: Instrumentation Engineer
    start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   end: 2009
+   employer: Bekool Oil and Gas Services
+   description: Carry out installation and maintenance of service equipment for major oil production companies.
+ - title: Math Teacher & Exam Officer
+   start: 2002
+   end: 2005
+   employer: Mount Olive Sec. Sch.
+   description: Teaching math and in charge of conducting external exams.
 
 #Education is required
 education:
