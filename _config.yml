@@ -46,12 +46,12 @@ roles:
  - title: Full Stack Developer
    start: 2013
    end: Ongoing
-   employer: Basement Crowd
+   employer: BrokerTech
    description: Developing software for clients including websites, web apps, android apps and windows applications.
  - title: Site Engineer
    start: 2009
    end: 2013
-   employer: Gilgal Nig. Ltd.
+   employer: Emerald Street Ventures
    description: Engineering supervisor working with the architect, subcontractors and the tradesmen and ensuring work goes as planned to necessary specifications.
  - title: Instrumentation Engineer
    start: 2005
@@ -61,7 +61,7 @@ roles:
  - title: Math Teacher & Exam Officer
    start: 2002
    end: 2005
-   employer: Mount Olive Sec. Sch.
+   employer: Accenture
    description: Teaching math and in charge of conducting external exams.
 
 #Education is required
