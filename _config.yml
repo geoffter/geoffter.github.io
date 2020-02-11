@@ -51,17 +51,17 @@ roles:
  - title: Site Engineer
    start: 2009
    end: 2013
-   employer: Emerald Street Ventures
+   employer: Gilgal Nig Ltd
    description: Engineering supervisor working with the architect, subcontractors and the tradesmen and ensuring work goes as planned to necessary specifications.
  - title: Instrumentation Engineer
    start: 2005
    end: 2009
    employer: Bekool Oil and Gas Services
    description: Carry out installation and maintenance of service equipment for major oil production companies.
- - title: Math Teacher & Exam Officer
+ - title: Math Teacher
    start: 2002
    end: 2005
-   employer: Accenture
+   employer: Mount Olive Sec Sch
    description: Teaching math and in charge of conducting external exams.
 
 #Education is required
